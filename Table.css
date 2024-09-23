@@ -1,0 +1,19 @@
+table, caption, tr, th, td{
+    border: 1px solid black;
+}
+
+th{
+    background-color: grey;
+}
+
+table{
+    background-color: yellow;
+}
+
+td{
+    background-color: lightblue;
+}
+
+caption{
+    background-color: lightgreen;
+}
